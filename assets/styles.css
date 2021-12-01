@@ -1,0 +1,18 @@
+span {
+    display: inline-block;
+}
+span div {
+    text-align: center;
+}
+#icons {
+    text-align: center;
+}
+#pic {
+    text-align: center;
+}
+#mini-layout {
+    text-align: center;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 50px;
+}
